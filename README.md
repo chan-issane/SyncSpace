@@ -1,11 +1,5 @@
 # SyncSpace
-
-![SyncSpace Logo](https://raw.githubusercontent.com/prodot-com/SyncSpace/main/Frontend/public/Space-Sync-2.5.zip)
-
 SyncSpace is a powerful and intuitive web application designed to streamline team collaboration, task management, and administrative oversight. It provides a centralized platform for creating and managing teams, assigning and tracking tasks, and ensuring seamless communication through real-time notifications.
-
-## Live Link
-https://raw.githubusercontent.com/prodot-com/SyncSpace/main/Frontend/public/Space-Sync-2.5.zip
 
 ## ✨ Features
 
